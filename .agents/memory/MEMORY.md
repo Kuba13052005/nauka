@@ -1,0 +1,1 @@
+- [Run-button workflow wiring](run-button-workflow-wiring.md) — validated `.replit` changes can normalize the Run button through a Project wrapper; verify the final workflow link.
